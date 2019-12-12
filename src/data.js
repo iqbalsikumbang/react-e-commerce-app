@@ -11,7 +11,7 @@ export const storeProducts = [
     price: 10,
     company: "STAN",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Bila anda gagal hari ini, jangan pernah menyerah. Ulangi terus kegagalan anda sampai boss anda menyerah..",
     inCart: false,
     count: 0,
     total: 0
@@ -21,45 +21,45 @@ export const storeProducts = [
     title: "Preman Terkuat",
     img: "img/preman.jpg",
     price: 16,
-    company: "BONPOLO",
+    company: "UNTID",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Orang-orang berpendapat bahwa nge-gym bisa ngurusin badan. Tapi tahu gak kalau Ade Rai itu beratnya berkisar antara 85-100kg. So, kenapa harus repot-repot 'nge-gym'?",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
-    img: "img/product-3.png",
+    title: "Pangeran Pakes",
+    img: "img/pakes.jpg",
     price: 8,
-    company: "htc",
+    company: "UNDIP",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Makan makanan kotor bikin diare? Tapi saya belum pernah dengar ada lalat yang mencret.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
-    img: "img/product-4.png",
+    title: "Bos Ganja",
+    img: "img/bosganja.jpg",
     price: 18,
-    company: "htc",
+    company: "SAKATO",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Tak ada pekerjaan yg berat di dunia ini. Pekerjaan Seberat Apapun Akan Terasa Ringan Apabila Tidak Dikerjakan",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
-    img: "img/product-5.png",
+    title: "Deden The Missing One",
+    img: "img/deden.jpg",
     price: 24,
-    company: "htc",
+    company: "GELANGAN",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Mengurangi makan akan membuat anda kurus? Coba liat paus biru, mereka hanya makan plankton dan mereka hewan paling besar yang hidup di dunia Sekarang. Jadi,",
     inCart: false,
     count: 0,
     total: 0
