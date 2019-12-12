@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import PaypalButton from './PaypalButton';
 
-export default function CartTotals({ value }) {
+export default function CartTotals({ value, history }) {
     const { cartSubTotal, cartTax, cartTotal, clearCart } = value;
     return (
         <React.Fragment>
